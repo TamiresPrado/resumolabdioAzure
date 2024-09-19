@@ -1,1 +1,6 @@
 # resumolabdioAzure
+Durante o laboratório, aprendi a criar e gerenciar usuários no Entra ID. Foi verificado que, quando um usuário é excluído, ele pode ser recuperado dentro de um prazo de 30 dias. Exploramos também o recurso de Self-Service Password Reset, que permite ao próprio usuário redefinir sua senha de forma autônoma. Além disso, pratiquei a criação de novos usuários, convites a usuários externos e a atribuição de permissões tanto para Resource Groups quanto para recursos específicos.
+
+A seguir, abordamos o Microsoft Defender para Nuvem, uma ferramenta essencial para monitorar a postura de segurança e proteção contra ameaças em ambientes de nuvem, como Azure, AWS e Google Cloud. Ela oferece duas funcionalidades principais: Gerenciamento de Postura de Segurança (CSPM), que identifica vulnerabilidades e sugere boas práticas de segurança, e Proteção contra Ameaças (CWP), que monitora e responde a atividades suspeitas em recursos críticos.
+
+O Entra ID foi destacado como uma solução poderosa para gerenciar e automatizar o acesso a sistemas e recursos de maneira segura e eficiente, simplificando a atribuição de permissões com base em políticas, garantindo o acesso adequado para usuários internos e externos sem a necessidade de intervenção manual constante.
